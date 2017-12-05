@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 05, 2017
 
 ### Student Name:  
-(First and Last Name)
+Rachel Hrenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson we used API, Ajax, and JSON to format data and create a movie application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rlh15d.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Asynchronous JavaScript and XML (also known as AJAX) allows us to load data from the server without a browser page refresh.
+2. JavaScript Object Notation and XML (also known as JSON) is used to transmit data between a server and web applications.
+3. An application-programming interface (also known as API) is a set of programming directions for accessing a web software tool.
